@@ -2,6 +2,7 @@ public class Subject {
     public int subId;
     public String subName;
     public int year;
+    public String email;
     public int branchId;
 
     public int getSubId() {
