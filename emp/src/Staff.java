@@ -4,6 +4,7 @@ import java.util.Map;
 
 public class Staff {
     public int staffId;
+    public String email;
     public String staffName;
     public List<Subject> subjects;
     public Map<LocalDate,Boolean> attendance;
